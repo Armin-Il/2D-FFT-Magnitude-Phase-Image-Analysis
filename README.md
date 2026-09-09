@@ -25,7 +25,7 @@ Every image, once transformed with a 2D FFT, splits into two independent pieces 
 
 This project answers a simple but surprisingly striking question: if you take the magnitude of **Image A** and the phase of **Image B**, then inverse-transform it back into the spatial domain — **which image do you end up looking at?**
 
-Spoiler: it looks like **B**. Phase carries almost all the recognizable structure of an image; magnitude mostly just adds texture on top. This repo reconstructs that result from scratch and backs it up with a quantitative MSE comparison.
+Spoiler: it looks like **B**. The phase spectrum preserves much of the spatial structure needed for visual recognition, while the magnitude primarily influences intensity and texture information ; magnitude mostly just adds texture on top. This repo reconstructs that result from scratch and backs it up with a quantitative MSE comparison.
 
 ---
 
