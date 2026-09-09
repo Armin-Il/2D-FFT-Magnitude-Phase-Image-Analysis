@@ -93,7 +93,8 @@ fft_image_analysis
 ```
 fft-magnitude-phase-swap/
 ├── fft_image_analysis.m         
-├── images/                       
+├── images/
+├── LICENSE                  
 ├── outputs/                      
 └── README.md
 ```
