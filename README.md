@@ -73,15 +73,15 @@ carries most of the recognizable structure.
 ### Run it
 
 ```bash
-git clone https://github.com/Armin-Il/fft-magnitude-phase-swap.git
-cd fft-magnitude-phase-swap
+git clone https://github.com/Armin-Il/fft_image_analysis.m
+cd fft_image_analysis
 ```
 
 1. Drop two images named `pic1.png` and `pic2.png` into the `images/` folder (or edit the paths at the top of the script).
 2. Open MATLAB and run:
 
 ```matlab
-fft2_magnitude_phase_swap
+fft_image_analysis
 ```
 
 3. Check the `outputs/` folder for all generated images and figures.
@@ -92,7 +92,7 @@ fft2_magnitude_phase_swap
 
 ```
 fft-magnitude-phase-swap/
-├── fft2_magnitude_phase_swap.m   # Main script
+├── fft_image_analysis.m          # Main script
 ├── images/                       # Put your input images here
 ├── outputs/                      # Generated results land here
 └── README.md
