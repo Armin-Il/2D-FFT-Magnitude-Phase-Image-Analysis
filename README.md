@@ -92,9 +92,9 @@ fft_image_analysis
 
 ```
 fft-magnitude-phase-swap/
-├── fft_image_analysis.m          # Main script
-├── images/                       # Put your input images here
-├── outputs/                      # Generated results land here
+├── fft_image_analysis.m         
+├── images/                       
+├── outputs/                      
 └── README.md
 ```
 
