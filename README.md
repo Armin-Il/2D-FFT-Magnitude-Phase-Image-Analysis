@@ -111,14 +111,35 @@ This isn't just a party trick — the magnitude/phase asymmetry is the theoretic
 
 ---
 
-## 🎓 Background
+## 🤝 Contributing
 
-Originally built as a course project for **Engineering Mathematics**, reworked here into a clean, portable, GitHub-ready form.
+This project is primarily maintained as a personal engineering/programming project, but suggestions and contributions are welcome:
 
-## 📜 License
+1. Fork the repository
+2. Create a new branch
+3. Implement and test your changes
+4. Submit a pull request
 
-MIT — feel free to use, modify, and learn from this.
+---
 
+## 📄 License
+
+Licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+
+---
+## 👨‍💻 Author
+
+**Armin Ilat**  
+Electrical Engineering Student
+
+**Interests:**  
+Electrical Engineering · Scientific Computing · Programming · Digital Communications · Control Systems · Engineering Simulation
+
+### 🔗 Links
+
+- **LinkedIn:** [linkedin.com/in/armin-ilat](https://www.linkedin.com/in/armin-ilat/)
+- **GitHub:** [github.com/Armin-Il](https://github.com/Armin-Il)
+- **YouTube:** [@VoltVerse-Electrical](https://www.youtube.com/@VoltVerse-Electrical)
 ---
 
 <div align="center">
